@@ -1,4 +1,3 @@
-"main": "scripts/planet_earth.js"
 #the mod name as displayed in-game
 displayName: "Java Mod Template"
 
@@ -9,7 +8,7 @@ name: "example-java-mod"
 author: "You"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "Ayachi.FactoryJavaMod"
 
 #the mod description as seen in the mod dialog
 description: "A Mindustry Java mod template."
