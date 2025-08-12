@@ -1,5 +1,6 @@
 package rbmk.world.blocks;
 import arc.util.*;
+import mindustry.gen.Building;
 import mindustry.world.*;
 import rbmk.content.RBMKStats;
 
