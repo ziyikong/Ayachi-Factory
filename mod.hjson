@@ -1,3 +1,4 @@
+"main": "scripts/planet_earth.js"
 #the mod name as displayed in-game
 displayName: "Java Mod Template"
 
